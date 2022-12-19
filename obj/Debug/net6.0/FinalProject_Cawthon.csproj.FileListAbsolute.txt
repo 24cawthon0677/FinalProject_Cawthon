@@ -1,0 +1,15 @@
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\obj\Debug\net6.0\FinalProject_Cawthon.csproj.AssemblyReference.cache
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\obj\Debug\net6.0\FinalProject_Cawthon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\obj\Debug\net6.0\FinalProject_Cawthon.AssemblyInfoInputs.cache
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\obj\Debug\net6.0\FinalProject_Cawthon.AssemblyInfo.cs
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\obj\Debug\net6.0\FinalProject_Cawthon.csproj.CoreCompileInputs.cache
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\bin\Debug\net6.0\FinalProject_Cawthon.exe
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\bin\Debug\net6.0\FinalProject_Cawthon.deps.json
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\bin\Debug\net6.0\FinalProject_Cawthon.runtimeconfig.json
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\bin\Debug\net6.0\FinalProject_Cawthon.dll
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\bin\Debug\net6.0\FinalProject_Cawthon.pdb
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\obj\Debug\net6.0\FinalProject_Cawthon.dll
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\obj\Debug\net6.0\refint\FinalProject_Cawthon.dll
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\obj\Debug\net6.0\FinalProject_Cawthon.pdb
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\obj\Debug\net6.0\FinalProject_Cawthon.genruntimeconfig.cache
+C:\Users\24cawthon0677\source\repos\FinalProject_Cawthon\FinalProject_Cawthon\obj\Debug\net6.0\ref\FinalProject_Cawthon.dll
